@@ -24,7 +24,7 @@ disfruto cada paso del proceso creativo y técnico para hacer realidad los proye
 
    
 <h2>🎨 Arte, Portafolios y Productos Digitales</h2>
-        <p>Mi portafolio de artista puedes encontrarlo en esta <a href="">presentación de Google</a></p>
+        <p>Mi portafolio de artista puedes encontrarlo en esta <a href="https://docs.google.com/presentation/d/1aXZDKRnP4RcAYrS2kbHy7gt0djJTrT3uYe61yUfoS80/edit?usp=sharing">presentación de Google</a></p>
         <p>Mis diseños de apps puedes verlos en <a href="https://www.behance.net/ismalej">Behance</a></p>
         <p>Mis diseños en 3D los puedes encontrar en mi <a href="https://www.artstation.com/ismalej">Artstation</a></p>
 
