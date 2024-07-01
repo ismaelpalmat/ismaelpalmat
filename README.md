@@ -11,9 +11,10 @@
 
 <p>Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼</p>
         
-<p>Actualmente estoy estudiando bootcamps paralelos 📹, me siento cada vez más parte de algo que veía muy lejano 🚀 
-en la medida que practico y veo resultados es cuando voy sumando confianza 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡,
-disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro.</p>
+<p>Actualmente estoy estudiando en bootcamps paralelos 📹, uno de Programación Front End y otro de Diseño UX. Me siento cada vez más parte de un mundo que anteriormente veía como lejano 🚀 
+En la medida que practico veo resultados, ahí es cuando voy sumando confianza y me siento capaz de enfrentar nuevos retos 📚 Me proyecto como alguien que participa actívamente de las nuevas tecnologías 💡,  
+estoy disfrutando cada parte de este proceso, el cual con mi creatividad sé que lograré dominar el aspecto técnico del lenguaje digital.☁ Mi sueño es poder hacer realidad los proyectos que
+tengo en mente.</p>
 
 <h2>🌐 Blog, Artículos y Videos</h2>
 
@@ -32,7 +33,7 @@ disfruto cada paso del proceso creativo y técnico para hacer realidad los proye
 <h2>💡 Habilidades y conocimientos</h2>
 
 <p>💬 Pregúntame sobre <b>Frontend</b>, <b>UX Design</b>, <b>3D Design</b>, <b>Arte</b> y <b>Pintura</b>. Me encanta hablar sobre <b>Procesos Creativos.</b></p>
-</ul>
+
 
    
 <h2>📫 Contacto</h2>
@@ -62,14 +63,19 @@ disfruto cada paso del proceso creativo y técnico para hacer realidad los proye
 
 <h2>🗃️ Software</h2>
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <br> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom"> <img src="https://img.shields.io/badge/Google%20Meet-00BFA5?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet"> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive"> <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"> <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <br> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom"> <img src="https://img.shields.io/badge/Google%20Meet-00BFA5?style=for-the-badge&logo=google-meet&logoColor=white" alt="Google Meet"> <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive"> <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs"> 
 
 
 <h2>🤔 Cosas que me gustaría aprender</h2>
 
 <p>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 3d"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 3d"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator">
 </p>
+
+<h2>📚Educación</h2>
+
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"> <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo"> <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="EdX">
+
 
 
 <h2>🌐 Redes sociales</h2>
