@@ -7,7 +7,7 @@
 </head>
 <body>
 
-        <h1> Hola 👋, soy Ismael Palma Téllez</h1>
+        <h2> Hola 👋, soy Ismael Palma Téllez</h2>
 <br>
         <p>Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼</p>
         
