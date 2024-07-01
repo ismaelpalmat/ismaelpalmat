@@ -7,9 +7,9 @@
 </head>
 <body>
 
-        <h2> Hola 👋, soy Ismael Palma Téllez</h2>
+        <title> Hola 👋, soy Ismael Palma Téllez</title>
 <br>
-        <p>Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼</p>
+        Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼
         
         <p>Actualmente estoy estudiando bootcamps paralelos 📹, me siento cada vez más parte de algo que veía muy lejano 🚀 <br>
         en la medida que practico y veo resultados es cuando voy sumando confianza 📚 en el campo tecnológico. <br> Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, <br>
