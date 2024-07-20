@@ -11,10 +11,7 @@
 
 <p>Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼</p>
         
-<p>Actualmente estoy estudiando en bootcamps paralelos 📹, uno de Programación Front End y otro de Diseño UX. Me siento cada vez más parte de un mundo que anteriormente veía como lejano 🚀 
-En la medida que practico veo resultados, ahí es cuando voy sumando confianza y me siento capaz de enfrentar nuevos retos 📚 Me proyecto como alguien que participa actívamente de las nuevas tecnologías 💡,  
-estoy disfrutando cada parte de este proceso, el cual con mi creatividad sé que lograré dominar el aspecto técnico del lenguaje digital.☁ Mi sueño es poder hacer realidad los proyectos que
-tengo en mente.</p>
+<p>Entusiasta de la tecnología y recién llegado al mundo de la programación, completé el bootcamp de UX inicial en Coderhouse y actualmente estoy cursando el de Ruby on Rails FullStack Developer en Talento Digital para Chile. Durante este programa, adquirí habilidades fundamentales en Ruby on Rails, demostrando mi capacidad para aprender rápidamente y enfrentar desafíos con determinación. Estoy ansioso por aplicar estas habilidades en proyectos innovadores y emocionado por la oportunidad de seguir aprendiendo y creciendo en el campo tecnológico.</p>
 
 <h2>🌐 Blog, Artículos y Videos</h2>
 
