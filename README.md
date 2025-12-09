@@ -9,9 +9,24 @@
 
 <h1> Hola 👋, soy Ismael Palma Téllez</h1>
 
-<p>Soy estudiante Front End Developer 🧑‍💻, Junior UX Designer 📱🧠 y Artista Visual 👨‍🎨🖼</p>
-        
-<p>Entusiasta de la tecnología y recién llegado al mundo de la programación, completé el bootcamp de UX inicial en Coderhouse y actualmente estoy cursando el de Ruby on Rails FullStack Developer en Talento Digital para Chile. Durante este programa, adquirí habilidades fundamentales en Ruby on Rails, demostrando mi capacidad para aprender rápidamente y enfrentar desafíos con determinación. Estoy ansioso por aplicar estas habilidades en proyectos innovadores y emocionado por la oportunidad de seguir aprendiendo y creciendo en el campo tecnológico.</p>
+Soy **Desarrollador en Unreal Engine 5** con conocimiento en **Diseño UX/UI**. Tengo pasión por crear experiencias interactivas inmersivas. Mi enfoque único combina la lógica de programación (**Blueprints**) con una sólida base en diseño visual y experiencia de usuario. Actualmente me encuentro estudiado **C++** lenguaje que proyecto usar en mis trabajos en Unreal Engine.
+
+Actualmente, estoy transformando mi background en desarrollo web (Ruby on Rails) hacia el desarrollo de videojuegos, especializándome en la implementación técnica de interfaces (UI) y mecánicas de juego.
+
+---
+
+### 🎮 En qué estoy trabajando
+
+🔭 **Actualmente desarrollando:**
+Un prototipo de **Aventura/Acción en Tercera Persona** en UE5 que incluye:
+- **Game Loop Completo:** Menú -> Gameplay -> Cinemática Final -> Reinicio.
+- **Sistemas de Interacción:** Pick-up system, inventario y combate.
+- **UX/UI Técnica:** Widgets dinámicos que reaccionan al input del jugador (Keyboard/Gamepad hints).
+- **Creación de assets en Blender**, los cuales importo directamente en Unreal Engine.
+
+🌱 **Aprendiendo:**
+- Programación en C++.
+- Animación avanzada dentro de Unreal Engine.
 
 <h2>🌐 Blog, Artículos y Videos</h2>
 
