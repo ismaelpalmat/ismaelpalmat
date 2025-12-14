@@ -25,7 +25,7 @@ Un prototipo de **Aventura/Acción en Tercera Persona** en UE5 que incluye:
 - **Creación de assets en Blender**, los cuales importo directamente en Unreal Engine.
 
 🌱 **Aprendiendo:**
-- Programación en C++.
+- Programación en C++ y Python.
 - Animación avanzada dentro de Unreal Engine.
 
 <h2>🌐 Blog, Artículos y Videos</h2>
