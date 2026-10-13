@@ -7,4 +7,4 @@ Combino lógica de gameplay (Blueprints → C++) con diseño visual y UX para cr
 
 🌱 **Aprendiendo:** C++ para UE5, Python, Animación avanzada en UE5.
 
-📫 **Contacto:** [[Email](ismael@palmatellez.cl)] | [LinkedIn](https://www.linkedin.com/in/ismaelpt/)] | [Portfolio] | [ArtStation] | [Itch](https://ismalej.itch.io/)]
+📫 **Contacto:** [[Email](ismael@palmatellez.cl)] | [[LinkedIn](https://www.linkedin.com/in/ismaelpt/)] | [Portfolio] | [ArtStation] | [[Itch](https://ismalej.itch.io/)]
